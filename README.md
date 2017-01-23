@@ -1,4 +1,4 @@
 # initgit
 
-creating a new branch is quick and simple
+creating is a new branch is quick and simple
 second lines
